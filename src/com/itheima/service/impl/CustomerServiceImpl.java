@@ -11,7 +11,7 @@ public class CustomerServiceImpl implements ICustomerService {
 
 	@Override
 	public void saveCustomer() {
-		new Logger().printLog();
+//		new Logger().printLog();
 		System.out.println("保存了客户");
 	}
 
